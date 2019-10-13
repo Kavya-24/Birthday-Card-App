@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Birthday Card</string>
+    <string name="EXTRA_MESSAGE1">Birthday Card</string>
+    <string name="EXTRA_MESSAGE2">Birthday Card</string>
+    <string name="EXTRA_MESSAGE3">Birthday Card</string>
+    <string name="go_back">Go Back</string>
+    <string name="to">To:</string>
+    <string name="receiver_name">Receiver Name</string>
+    <string name="from">From:</string>
+    <string name="sender_name">Sender Name</string>
+    <string name="message">Message:</string>
+    <string name="enter_message">Enter message</string>
+    <string name="let_s_do_it">Let\'s Do IT!!</string>
+
+</resources>
